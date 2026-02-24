@@ -31,7 +31,7 @@ int main() {
             harga = 18000;
         }
         else {
-            harga = 0;
+            harga = 0; 
         }
 
         subtotal = harga * porsi;
