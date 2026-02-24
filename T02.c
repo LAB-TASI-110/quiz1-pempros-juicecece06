@@ -21,7 +21,7 @@ int main() {
     scanf("%d", &kode);
 
     int total = 0;
-
+  
     // Proses penjumlahan berdasarkan kelompok
     for(int i = 0; i < N; i++) {
 
