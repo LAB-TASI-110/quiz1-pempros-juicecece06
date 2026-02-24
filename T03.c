@@ -69,7 +69,7 @@ int main() {
             printf("Status         : Diproses\n");
             printf("==========================\n");
 
-        }
+        }  
         else if(pilihan == 2) {
             printf("\nTotal Pemasukan Hari Ini: %.0f\n", totalPemasukan);
         }
