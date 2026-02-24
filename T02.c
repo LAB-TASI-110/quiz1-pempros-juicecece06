@@ -18,7 +18,7 @@ int main() {
 
     int kode;
     printf("Masukkan kode kelompok (1 atau 2): ");
-    scanf("%d", &kode);
+    scanf("%d", &kode);  
 
     int total = 0;
   

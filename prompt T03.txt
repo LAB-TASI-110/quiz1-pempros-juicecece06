@@ -1,3 +1,3 @@
 jelaskan bagaimana caranya bebas seperti apa sistemnya akan tetapi harus logis,terstruktur juga jelas juga apa nanti inputnya,outputnya dan lain-lain
-Buatkan versi coding lengkap T03.C
+Buatkan versi coding lengkap T03.C    
 jelas juga buat untuk menjalankannnya atau run apa yg di input dan outputnya apa

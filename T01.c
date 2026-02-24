@@ -33,7 +33,7 @@ int main() {
         else {
             harga = 0; 
         }
-
+  
         subtotal = harga * porsi;
         total = total + subtotal;
     }

@@ -24,7 +24,7 @@ GG
 [Porsi Butet]
 END
 
-Output Format ouput : tampilkan struk pada terminal dengan format berikut
+Output Format ouput : tampilkan struk pada terminal dengan format berikut    
 
 
 

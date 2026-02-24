@@ -59,7 +59,7 @@ int main() {
                 printf("Diskon 10%% diterapkan!\n");
             }
 
-            totalPemasukan += total;
+            totalPemasukan += total;  
 
             printf("\n===== STRUK LAUNDRY =====\n");
             printf("Nama Pelanggan : %s\n", nama);
