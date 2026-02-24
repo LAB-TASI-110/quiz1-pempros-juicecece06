@@ -16,7 +16,7 @@ int main() {
 
         if(strcmp(kode, "END") == 0) {
             break;
-        }
+        {
 
         printf("Masukkan porsi: ");
         scanf("%d", &porsi);
